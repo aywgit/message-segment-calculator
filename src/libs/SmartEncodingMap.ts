@@ -259,7 +259,7 @@ const SmartEncodingMap: {
   '\u2060': '', // WORD JOINER
   '\u2017': "_", // DOUBLE LOW LINE
   '\u2014': '-', // EM DASH
-  '\u2013': '-', // EN DASH
+  '\u2013': '-', // EN DASHa
   '\u2039': '>', // Single left-pointing angle quotation mark
   '\u203A': '<', // Single right-pointing angle quotation mark
   '\u203C': '!!', // Double exclamation mark
